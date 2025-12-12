@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tenant Guardian AI",
+  "description": "A multimodal fraud detection engine for rental real estate listings. Protects tenants by analyzing photos, pricing, and text for scam indicators.",
+  "requestFramePermissions": []
+}
